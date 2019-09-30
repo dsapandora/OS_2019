@@ -4,7 +4,7 @@ How to Make a Computer Operating System
 Online book about how to write a computer operating system in C/C++ from scratch.
 
 
-**Book**: An online version is available at [http://dsapandora.gitbooks.io/OS_2019/edit/master/README.md/](http://dsapandora.gitbooks.io/OS_2019/) (PDF, Mobi and ePub). It was generated using [GitBook](https://www.gitbook.com/).
+**Book**: An online version is available at [http://dsapandora.gitbooks.io/OS_2019/](http://dsapandora.gitbooks.io/OS_2019/) (PDF, Mobi and ePub). It was generated using [GitBook](https://www.gitbook.com/).
 
 **Source Code**: All the system source code will be stored in the [src](https://github.com/dsapandora/OS_2019/tree/master/src) directory. Each step will contain links to the different related files.
 
